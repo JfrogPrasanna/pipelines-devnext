@@ -1,5 +1,5 @@
 var:
-  project: devnext_workshop_1
-  gitProvider: hk_github
-  path: harshkumar1/pipelines-devnext
+  project: devnext_workshop_103
+  gitProvider: PrasannaRepo
+  path: JfrogPrasanna/pipelines-devnext
   jfrogPlatformInstance: devnextsaas1.jfrog.io
